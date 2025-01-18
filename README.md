@@ -12,5 +12,6 @@ Manage a GITHUB folder
     - `gext list repos <user>` - list all repositories cloned under `<user>`
 - `gext clone <URL>`
     - check if URL is a github url and correctly formatted
-    - check if user has folder in `~/GITHUB`
+    - check if `<user>` has folder in `~/GITHUB`
+    - clone repo in `<user>` folder
     
